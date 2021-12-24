@@ -1,5 +1,6 @@
 # CNN_cifar10
 
+2021 first semister AI class
 CNN을 이용한 cifar-10 dataset 이미지 분류
 
 python 3.6.7
