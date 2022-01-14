@@ -1,4 +1,5 @@
 # CNN_cifar10
+CNN 이용 
 
 2021 first semister AI class
 
