@@ -1,7 +1,6 @@
 # CNN_cifar10
-CNN 이용 
 
-2021 first semister AI class
+2021 spring semester AI class
 
 CNN을 이용한 cifar-10 dataset 이미지 분류
 
